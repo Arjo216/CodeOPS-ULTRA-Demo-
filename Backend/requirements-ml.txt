@@ -1,0 +1,10 @@
+# backend/requirements-ml.txt - heavy ML libs (install in separate env or Colab)
+torch               # install with correct wheel for your CUDA or CPU; see official torch install page
+transformers
+sentence-transformers
+faiss-cpu
+scikit-learn
+huggingface-hub
+datasets
+numpy
+pandas

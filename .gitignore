@@ -1,0 +1,13 @@
+# Environments (API Keys - VERY IMPORTANT)
+.env
+.venv/
+venv/
+__pycache__/
+
+# Frontend Dependencies
+node_modules/
+dist/
+.DS_Store
+
+# IDE
+.vscode/
